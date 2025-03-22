@@ -4,7 +4,7 @@ This repository contains code for a ROS2-based robot navigation system that uses
 
 # Demo
 "Find the red notebook"
-(link)[https://youtu.be/hgECOtlZPW8]
+[link](https://youtu.be/hgECOtlZPW8)
 
 ## System Architecture
 
