@@ -2,6 +2,10 @@
 
 This repository contains code for a ROS2-based robot navigation system that uses vision models to navigate in indoor environments. The system uses a Raspberry Pi with a movable camera (via servo motor) to capture multiple views (left, front, right) and then uses OpenAI or Gemini vision models to determine the next movement.
 
+# Demo
+"Find the red notebook"
+(link)[https://youtu.be/hgECOtlZPW8]
+
 ## System Architecture
 
 The system is split between two computers:
